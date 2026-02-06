@@ -1,0 +1,206 @@
+[
+  {
+    "_id": {"$oid": "69710c2e85fab7db51376f6d"},
+    "total": 1200000,
+    "createdAt": { "$date": "2026-01-20T10:00:00.000Z" },
+    "items": [
+      {"name": "Cà phê", "qty": 2, "price": 30000}
+    ],
+    "customer": "Khách lẻ"
+  },
+  {
+    "_id": {"$oid": "6971101d64e4b9c915d39ece"},
+    "id": "GD499",
+    "date": "22/1/2026",
+    "type": "income",
+    "amount": 95000,
+    "category": "Bán hàng",
+    "desc": "Bán 5 túi đá",
+    "staff": "Admin",
+    "status": "Chờ duyệt",
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "6971196e85fab7db51376f8c"},
+    "id": "GD07",
+    "date": "19/1/2026",
+    "type": "income",
+    "amount": 700000,
+    "category": "Bán hàng",
+    "desc": "Đơn hàng test chủ nhật",
+    "staff": "Admin",
+    "createdAt": { "$date": "2026-01-19T00:00:00.000+00:00" }
+  },
+  {
+    "_id": {"$oid": "6971a1cdca3efa1ffd0b4d8f"},
+    "id": "GD08",
+    "date": "20/1/2026",
+    "type": "income",
+    "amount": 500000,
+    "category": "Bán hàng",
+    "desc": "Đơn hàng t2",
+    "staff": "Admin",
+    "createdAt": { "$date": "2026-01-20T00:00:00.000+00:00" }
+  },
+  {
+    "_id": {"$oid": "6976656ad39760029ad2eead"},
+    "id": "GD90",
+    "date": "21/1/2026",
+    "type": "income",
+    "amount": 1200000,
+    "category": "Bán hàng",
+    "desc": ".........",
+    "staff": "Admin",
+    "status": "Chờ duyệt",
+    "createdAt": { "$date": "2026-02-06T10:00:00.000Z" },
+    "__v": 0
+  }
+  ,
+  {
+    "_id": {"$oid": "699999999999999999999999"},
+    "id": "GD2026",
+    "date": "06/2/2026",
+    "type": "income",
+      "amount": 90000,
+    "category": "Bán hàng",
+    "desc": "2 Cafe, 1 Bánh",
+    "staff": "Admin",
+    "status": "Đã thanh toán",
+    "createdAt": { "$date": "2026-02-06T09:30:00.000Z" },
+    "__v": 0
+  }
+  ,
+  {
+    "_id": {"$oid": "699999999999999999999998"},
+    "id": "GD2027",
+    "date": "06/2/2026",
+    "type": "income",
+    "amount": 150000,
+    "category": "Bán hàng",
+    "desc": "1 Trà đào, 1 Bánh ngọt",
+    "staff": "Admin",
+    "status": "Đã thanh toán",
+    "createdAt": { "$date": "2026-02-06T08:30:00.000Z" },
+    "__v": 0
+  }
+    ,
+    {
+      "_id": {"$oid": "699999999999999999999997"},
+      "id": "GD2028",
+      "date": "05/2/2026",
+      "type": "income",
+      "amount": 320000,
+      "category": "Bán hàng",
+      "desc": "Combo Nhóm 4",
+      "staff": "Admin",
+      "status": "Chờ duyệt",
+      "createdAt": { "$date": "2026-02-05T10:15:00.000Z" },
+      "__v": 0
+    },
+    {
+      "_id": {"$oid": "699999999999999999999996"},
+      "id": "GD2029",
+      "date": "04/2/2026",
+      "type": "income",
+      "amount": 45000,
+      "category": "Bán hàng",
+      "desc": "1 Trà đào",
+      "staff": "Admin",
+      "status": "Đã thanh toán",
+      "createdAt": { "$date": "2026-02-04T09:45:00.000Z" },
+      "__v": 0
+    },
+    {
+      "_id": {"$oid": "699999999999999999999995"},
+      "id": "GD2030",
+      "date": "03/2/2026",
+      "type": "income",
+      "amount": 125000,
+      "category": "Bán hàng",
+      "desc": "2 Cafe, 1 Bánh",
+      "staff": "Admin",
+      "status": "Đã thanh toán",
+      "createdAt": { "$date": "2026-02-03T08:30:00.000Z" },
+      "__v": 0
+    },
+    {
+      "_id": {"$oid": "699999999999999999999994"},
+      "id": "GD2031",
+      "date": "02/2/2026",
+      "type": "income",
+      "amount": 200000,
+      "category": "Bán hàng",
+      "desc": "1 Latte, 1 Bánh mì",
+      "staff": "Admin",
+      "status": "Chờ duyệt",
+      "createdAt": { "$date": "2026-02-02T11:00:00.000Z" },
+      "__v": 0
+    }
+      ,
+      {
+        "_id": {"$oid": "699999999999999999999993"},
+        "id": "GD2032",
+        "date": "06/2/2026",
+        "type": "income",
+        "amount": 180000,
+        "category": "Bán hàng",
+        "desc": "1 Matcha, 1 Bánh ngọt",
+        "staff": "Admin",
+        "status": "Đã thanh toán",
+        "createdAt": { "$date": "2026-02-06T13:00:00.000Z" },
+        "__v": 0
+      },
+      {
+        "_id": {"$oid": "699999999999999999999992"},
+        "id": "GD2033",
+        "date": "05/2/2026",
+        "type": "income",
+        "amount": 210000,
+        "category": "Bán hàng",
+        "desc": "1 Espresso, 2 Bánh mì",
+        "staff": "Admin",
+        "status": "Chờ duyệt",
+        "createdAt": { "$date": "2026-02-05T15:00:00.000Z" },
+        "__v": 0
+      },
+      {
+        "_id": {"$oid": "699999999999999999999991"},
+        "id": "GD2034",
+        "date": "04/2/2026",
+        "type": "income",
+        "amount": 95000,
+        "category": "Bán hàng",
+        "desc": "1 Trà sữa",
+        "staff": "Admin",
+        "status": "Đã thanh toán",
+        "createdAt": { "$date": "2026-02-04T14:30:00.000Z" },
+        "__v": 0
+      },
+      {
+        "_id": {"$oid": "699999999999999999999990"},
+        "id": "GD2035",
+        "date": "03/2/2026",
+        "type": "income",
+        "amount": 120000,
+        "category": "Bán hàng",
+        "desc": "1 Cafe sữa, 1 Bánh ngọt",
+        "staff": "Admin",
+        "status": "Đã thanh toán",
+        "createdAt": { "$date": "2026-02-03T10:45:00.000Z" },
+        "__v": 0
+      }
+        ,
+        {
+          "_id": {"$oid": "699999999999999999999989"},
+          "id": "GD2036",
+          "date": "06/2/2026",
+          "type": "income",
+          "amount": 900000,
+          "category": "Bán hàng",
+          "desc": "Doanh thu lớn trong ngày",
+          "staff": "Admin",
+          "status": "Đã thanh toán",
+          "createdAt": { "$date": "2026-02-06T12:00:00.000Z" },
+          "__v": 0
+        }
+]

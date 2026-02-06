@@ -1,0 +1,7 @@
+[
+	{"_id":{"$oid":"696e42e3adb116d2adfe9417"},"name":"Starbuzz Coffee","phone":"1234567890","registerDate":"19/1/2026","rank":"Vàng","point":0,"total":0,"lastVisit":"19/1/2026","__v":0},
+	{"_id":{"$oid":"696e463badb116d2adfe9425"},"name":"Nguyễn Bảo La ","phone":"123","registerDate":"19/1/2026","rank":"Đồng","point":150,"total":15000000,"lastVisit":"19/1/2026","__v":0},
+	{"_id":{"$oid":"696ee35f3feef5b1575c7236"},"name":"Lò Xuân A","phone":"789456123","registerDate":"20/1/2026","rank":"Đồng","point":100,"total":200000,"lastVisit":"20/1/2026","__v":0},
+	{"_id":{"$oid":"696ef30c728ccf0522344ea4"},"name":"Đào Vận Ánh","phone":"0977570888","registerDate":"20/1/2026","rank":"Vàng","point":98,"total":10000,"lastVisit":"20/1/2026","__v":0},
+	{"_id":{"$oid":"69708f8fc25668900197e010"},"name":"Starbuzz Coffee","phone":"0901234567","registerDate":"21/1/2026","rank":"Đồng","point":7,"total":7,"lastVisit":"21/1/2026","__v":0}
+]

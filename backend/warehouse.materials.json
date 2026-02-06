@@ -1,0 +1,7 @@
+[
+  {"_id":{"$oid":"696d918c5e50a33ee4ffa21e"},"code":"NL-124","name":"sữa đậu ","group":"Sữa","quantity":2,"cost":"15000","expiry":"2026-11-10","status":"Tốt","min":"1","__v":0},
+  {"_id":{"$oid":"696d9cf6c3ccc0423f869817"},"code":"NL-254","name":"trà gừng","group":"Trà","quantity":50,"cost":50000,"expiry":"1995-01-12","status":"Sắp hết hạn","min":10,"__v":0},
+  {"_id":{"$oid":"696ee31b3feef5b1575c7230"},"code":"NL-455","name":"hạt táo ","group":"Trà","quantity":10,"cost":15000,"expiry":"2015-02-12","status":"Sắp hết hạn","min":"12","__v":0},
+  {"_id":{"$oid":"697729502e2e305ad4197cfc"},"code":"NL-204","name":"cafe","group":"Cafe","quantity":1,"cost":150000,"expiry":"2026-11-26","status":"Sắp hết hạn","warningThreshold":10,"__v":0,"min":2},
+  {"_id":{"$oid":"697b074d74dffb78637a212c"},"code":"NL-589","name":"siro đào ","group":"Sữa","quantity":5,"cost":120000,"expiry":"2026-12-29","status":"Sắp hết hạn","warningThreshold":10,"min":6,"__v":0}
+]

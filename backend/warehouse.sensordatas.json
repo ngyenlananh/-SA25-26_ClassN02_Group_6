@@ -1,0 +1,24 @@
+[
+  {
+    "_id": {"$oid": "697634f8873b4a8fd9930d0d"},
+    "deviceId": "sensor01",
+    "type": "temperature",
+    "value": 28.3,
+    "unit": "C",
+    "timestamp": "2026-01-25T15:21:28.930+00:00",
+    "createdAt": "2026-01-25T15:21:28.934+00:00",
+    "updatedAt": "2026-01-25T15:21:28.934+00:00",
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "69763a53873b4a8fd9930d9b"},
+    "deviceId": "material01",
+    "type": "material",
+    "value": 5,
+    "unit": "kg",
+    "timestamp": "2026-01-25T15:44:19.094+00:00",
+    "createdAt": "2026-01-25T15:44:19.094+00:00",
+    "updatedAt": "2026-01-25T15:44:19.094+00:00",
+    "__v": 0
+  }
+]

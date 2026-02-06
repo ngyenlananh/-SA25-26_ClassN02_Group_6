@@ -1,0 +1,27 @@
+[
+  {
+    "_id": {"$oid": "69730a57742a17cf244c7a4f"},
+    "__v": 0,
+    "admin": {
+      "username": "admin"
+    },
+    "bankInfo": {
+      "bankName": "MB Bank",
+      "accountNumber": "0334613060",
+      "vat": 8
+    },
+    "printer": {
+      "paperSize": "80mm",
+      "language": "vi",
+      "autoPrint": true,
+      "sound": true
+    },
+    "shopInfo": {
+      "name": "Starbuzz Coffee",
+      "address": "248  Đường Láng, Hà Nội",
+      "hotline": "0901234567",
+      "wifiPassword": "12345678",
+      "billMessage": "Cảm ơn quý khách, hẹn gặp lại!"
+    }
+  }
+]

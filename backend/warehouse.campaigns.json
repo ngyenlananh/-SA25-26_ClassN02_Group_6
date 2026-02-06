@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "696f5a6de4753a8e9d2381d2"
+  },
+  "code": "TRIAN202666",
+  "title": "Tri ân khách hàng thân thiết - STARBUZZ ERP",
+  "desc": "Giảm trực tiếp 20% cho tổng hóa đơn hoặc Tặng 01 phần quà đặc biệt.",
+  "time": "Từ 23/01/2026 đến hết  24/01/2026",
+  "color": "from-blue-400 to-indigo-600",
+  "limit": 50,
+  "used": 0,
+  "revenue": 0,
+  "status": "upcoming",
+  "createdAt": {
+    "$date": "2026-01-20T10:35:25.868Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T03:24:02.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696f5b5ae4753a8e9d2381d6"
+  },
+  "code": "QUAYLAI20",
+  "title": "Tri ân khách hàng cũ - Nhớ bạn quá!",
+  "desc": "Giảm 20% cho hóa đơn từ 100k.",
+  "time": "08h - 22h (Tất cả các ngày trong tuần)",
+  "color": "from-orange-500 to-red-500",
+  "limit": 1500,
+  "used": 0,
+  "revenue": 0,
+  "status": "running",
+  "createdAt": {
+    "$date": "2026-01-20T10:39:22.758Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T10:39:22.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696f5bfee4753a8e9d2381e1"
+  },
+  "code": "HAPPYHOUR",
+  "title": "Giờ vàng tri ân - Đón nắng sớmm",
+  "desc": "Đồng giá 25k cho các dòng cà phê máy",
+  "time": "07h - 09h sáng hàng ngày",
+  "color": "from-emerald-400 to-teal-600",
+  "limit": 200,
+  "used": 0,
+  "revenue": 0,
+  "status": "upcoming",
+  "createdAt": {
+    "$date": "2026-01-20T10:42:06.736Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T18:17:29.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696f5cf7e4753a8e9d2381e5"
+  },
+  "code": "VIPSTARBUZZ",
+  "title": "Đặc quyền tri ân thành viên VIP",
+  "desc": "Mua 1 tặng 1 toàn bộ menu đồ uống",
+  "time": "Chỉ áp dụng vào Thứ 2 hàng ngày ",
+  "color": "from-purple-500 to-pink-500",
+  "limit": 100,
+  "used": 0,
+  "revenue": 0,
+  "status": "expired",
+  "createdAt": {
+    "$date": "2026-01-20T10:46:15.580Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T10:46:15.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696fb999f4bc38a91584d688"
+  },
+  "code": "THÁNG 1",
+  "title": "Ghé thăm giờ vàng",
+  "desc": "Đồng giá 15.000đ cho toàn bộ menu Cà phê máy",
+  "time": "Từ 07:00 đến 09:00 sáng, từ Thứ 2 đến Thứ 6",
+  "color": "from-orange-500 to-red-500",
+  "limit": 100,
+  "used": 0,
+  "revenue": 0,
+  "status": "running",
+  "createdAt": {
+    "$date": "2026-01-20T17:21:29.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T17:21:29.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696fd7ee449e1d51e07c3a2c"
+  },
+  "code": "VD:TET 2026",
+  "title": "Khai xuân như ý ",
+  "desc": "giảm 50% ",
+  "time": "7h-9h",
+  "color": "from-emerald-400 to-teal-600",
+  "limit": 100,
+  "used": 0,
+  "revenue": 0,
+  "status": "upcoming",
+  "createdAt": {
+    "$date": "2026-01-20T19:30:54.244Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T19:30:54.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696fdcde5d009805fab7fd79"
+  },
+  "code": "TET2025",
+  "title": "Tết an lành",
+  "desc": "giảm 50% cho đơn 35k",
+  "time": "Từ 20/01/2026 đến hết 22/01/2026",
+  "color": "from-orange-500 to-red-500",
+  "limit": 100,
+  "used": 0,
+  "revenue": 0,
+  "status": "upcoming",
+  "createdAt": {
+    "$date": "2026-01-20T19:51:58.215Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T19:51:58.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6971f79ede5228e93ff602d0"
+  },
+  "code": "HAPPYHOURUUUUU",
+  "title": "jjjjjjjj",
+  "desc": "Giảm 30 % ",
+  "time": "Thứ 5 hàng tuần",
+  "color": "from-blue-400 to-indigo-600",
+  "limit": 100,
+  "used": 0,
+  "revenue": 0,
+  "status": "expired",
+  "createdAt": {
+    "$date": "2026-01-22T10:10:38.680Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T10:10:38.680Z"
+  },
+  "__v": 0
+}]
